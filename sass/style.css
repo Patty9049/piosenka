@@ -4,4 +4,6 @@ h1 {
 h2 {
 	font: italic 30px #ff7f50;
 }
-
+p {
+	font-size: 22px;
+}
